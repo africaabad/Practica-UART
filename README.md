@@ -3,7 +3,7 @@
 Alumna: **Àfrica Abad**
 
 
-**UART* (Universal Asynchronous Receiver/Transmitter): define un protocolo o un conjunto de normas para el intercambio de datos en serie entre dos dispositivos. UART  utiliza solo dos hilos entre el transmisor y el receptor para transmitir(Tx) y recibir(Rx) en ambas direcciones. 
+*UART* (Universal Asynchronous Receiver/Transmitter): define un protocolo o un conjunto de normas para el intercambio de datos en serie entre dos dispositivos. UART  utiliza solo dos hilos entre el transmisor y el receptor para transmitir(Tx) y recibir(Rx) en ambas direcciones. 
 
 ![UART](https://cdn.rohde-schwarz.com/pws/solution/research___education_1/educational_resources_/oscilloscope_and_probe_fundamentals/05_Understanding-UART_01_w1280_hX.png)
 
